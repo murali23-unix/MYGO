@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 
-	fmt.Printf("my test file")
+	fmt.Printf("my test file\n")
 }
